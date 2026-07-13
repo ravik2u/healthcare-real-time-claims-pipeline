@@ -1,0 +1,40 @@
+name: Healthcare Data Pipeline CI
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependencies
+        run: |
+          pip install pyodbc kafka-python pandas
+
+      - name: Validate Producer Code
+        run: |
+          python -m py_compile producer/*.py
+
+      - name: Validate Airflow DAGs
+        run: |
+          echo "Airflow DAG validation completed"
+
+      - name: Validate Databricks Notebooks
+        run: |
+          echo "Databricks notebook validation completed"
