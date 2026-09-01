@@ -1,0 +1,2001 @@
+CustomerID,CustomerName,Age,Gender,City
+1001,Customer 1001,79,Other,Los Angeles
+1002,Customer 1002,42,Male,Houston
+1003,Customer 1003,72,Female,Houston
+1004,Customer 1004,19,Male,Chicago
+1005,Customer 1005,27,Female,Houston
+1006,Customer 1006,53,Other,Los Angeles
+1007,Customer 1007,62,Female,New York
+1008,Customer 1008,44,Male,New York
+1009,Customer 1009,52,Male,Los Angeles
+1010,Customer 1010,64,Female,Los Angeles
+1011,Customer 1011,44,Female,New York
+1012,Customer 1012,51,Male,Los Angeles
+1013,Customer 1013,65,Other,Chicago
+1014,Customer 1014,49,Female,Miami
+1015,Customer 1015,76,Female,Houston
+1016,Customer 1016,24,Male,New York
+1017,Customer 1017,33,Male,Chicago
+1018,Customer 1018,54,Female,New York
+1019,Customer 1019,74,Other,Los Angeles
+1020,Customer 1020,49,Female,Chicago
+1021,Customer 1021,78,Male,New York
+1022,Customer 1022,35,Female,New York
+1023,Customer 1023,48,Male,Houston
+1024,Customer 1024,70,Female,New York
+1025,Customer 1025,58,Other,Houston
+1026,Customer 1026,51,Male,New York
+1027,Customer 1027,53,Female,Los Angeles
+1028,Customer 1028,28,Male,New York
+1029,Customer 1029,68,Other,Miami
+1030,Customer 1030,39,Other,Miami
+1031,Customer 1031,52,Female,Los Angeles
+1032,Customer 1032,26,Other,Miami
+1033,Customer 1033,25,Female,Chicago
+1034,Customer 1034,68,Other,Houston
+1035,Customer 1035,44,Other,Los Angeles
+1036,Customer 1036,52,Female,Chicago
+1037,Customer 1037,35,Female,Houston
+1038,Customer 1038,19,Other,Los Angeles
+1039,Customer 1039,68,Female,Chicago
+1040,Customer 1040,22,Male,Los Angeles
+1041,Customer 1041,34,Other,New York
+1042,Customer 1042,47,Other,New York
+1043,Customer 1043,26,Female,Houston
+1044,Customer 1044,66,Other,Chicago
+1045,Customer 1045,43,Female,Chicago
+1046,Customer 1046,49,Male,Houston
+1047,Customer 1047,37,Male,Chicago
+1048,Customer 1048,29,Male,Chicago
+1049,Customer 1049,76,Other,Miami
+1050,Customer 1050,73,Other,Los Angeles
+1051,Customer 1051,54,Female,Los Angeles
+1052,Customer 1052,35,Other,New York
+1053,Customer 1053,62,Other,Los Angeles
+1054,Customer 1054,70,Other,Miami
+1055,Customer 1055,30,Other,Miami
+1056,Customer 1056,47,Male,Chicago
+1057,Customer 1057,39,Other,Miami
+1058,Customer 1058,59,Male,Chicago
+1059,Customer 1059,39,Male,Los Angeles
+1060,Customer 1060,61,Male,New York
+1061,Customer 1061,67,Female,Chicago
+1062,Customer 1062,65,Female,Los Angeles
+1063,Customer 1063,73,Male,Houston
+1064,Customer 1064,73,Other,Chicago
+1065,Customer 1065,60,Female,Chicago
+1066,Customer 1066,33,Male,Chicago
+1067,Customer 1067,76,Male,Chicago
+1068,Customer 1068,63,Other,Miami
+1069,Customer 1069,41,Other,Houston
+1070,Customer 1070,64,Other,Los Angeles
+1071,Customer 1071,77,Other,Houston
+1072,Customer 1072,60,Other,Chicago
+1073,Customer 1073,68,Female,Los Angeles
+1074,Customer 1074,51,Other,New York
+1075,Customer 1075,34,Female,Miami
+1076,Customer 1076,27,Other,Miami
+1077,Customer 1077,78,Other,New York
+1078,Customer 1078,25,Female,Chicago
+1079,Customer 1079,38,Other,New York
+1080,Customer 1080,34,Male,Houston
+1081,Customer 1081,27,Female,Miami
+1082,Customer 1082,25,Male,Houston
+1083,Customer 1083,61,Female,New York
+1084,Customer 1084,43,Male,Miami
+1085,Customer 1085,42,Male,New York
+1086,Customer 1086,34,Female,Chicago
+1087,Customer 1087,39,Male,Chicago
+1088,Customer 1088,55,Other,Los Angeles
+1089,Customer 1089,47,Female,Chicago
+1090,Customer 1090,69,Male,Houston
+1091,Customer 1091,39,Female,Miami
+1092,Customer 1092,74,Female,Los Angeles
+1093,Customer 1093,39,Other,New York
+1094,Customer 1094,56,Female,Los Angeles
+1095,Customer 1095,61,Other,Miami
+1096,Customer 1096,70,Male,Miami
+1097,Customer 1097,47,Female,Houston
+1098,Customer 1098,79,Female,Houston
+1099,Customer 1099,41,Other,Houston
+1100,Customer 1100,58,Female,Miami
+1101,Customer 1101,63,Male,Houston
+1102,Customer 1102,34,Male,New York
+1103,Customer 1103,19,Female,Los Angeles
+1104,Customer 1104,51,Female,Miami
+1105,Customer 1105,66,Other,New York
+1106,Customer 1106,49,Other,Houston
+1107,Customer 1107,30,Female,New York
+1108,Customer 1108,28,Female,Houston
+1109,Customer 1109,63,Male,Chicago
+1110,Customer 1110,62,Male,New York
+1111,Customer 1111,36,Female,Miami
+1112,Customer 1112,48,Other,Chicago
+1113,Customer 1113,38,Male,Los Angeles
+1114,Customer 1114,24,Female,Chicago
+1115,Customer 1115,64,Other,New York
+1116,Customer 1116,28,Female,New York
+1117,Customer 1117,18,Other,Chicago
+1118,Customer 1118,56,Other,Los Angeles
+1119,Customer 1119,31,Other,Chicago
+1120,Customer 1120,19,Female,Los Angeles
+1121,Customer 1121,57,Male,Miami
+1122,Customer 1122,30,Male,Chicago
+1123,Customer 1123,21,Other,Los Angeles
+1124,Customer 1124,57,Female,Chicago
+1125,Customer 1125,45,Other,New York
+1126,Customer 1126,55,Female,Miami
+1127,Customer 1127,18,Other,New York
+1128,Customer 1128,33,Male,Houston
+1129,Customer 1129,67,Other,Miami
+1130,Customer 1130,21,Female,Los Angeles
+1131,Customer 1131,53,Other,New York
+1132,Customer 1132,61,Other,Chicago
+1133,Customer 1133,31,Other,New York
+1134,Customer 1134,48,Other,Houston
+1135,Customer 1135,39,Male,Chicago
+1136,Customer 1136,23,Male,New York
+1137,Customer 1137,61,Female,Chicago
+1138,Customer 1138,73,Other,New York
+1139,Customer 1139,61,Other,Houston
+1140,Customer 1140,50,Male,Chicago
+1141,Customer 1141,35,Other,Houston
+1142,Customer 1142,68,Female,New York
+1143,Customer 1143,69,Male,Houston
+1144,Customer 1144,53,Other,Houston
+1145,Customer 1145,74,Female,Miami
+1146,Customer 1146,35,Female,New York
+1147,Customer 1147,61,Female,Los Angeles
+1148,Customer 1148,25,Male,Miami
+1149,Customer 1149,55,Female,Los Angeles
+1150,Customer 1150,55,Female,Los Angeles
+1151,Customer 1151,66,Female,Los Angeles
+1152,Customer 1152,58,Female,Chicago
+1153,Customer 1153,35,Male,Miami
+1154,Customer 1154,29,Male,Houston
+1155,Customer 1155,25,Other,New York
+1156,Customer 1156,31,Other,New York
+1157,Customer 1157,60,Male,Chicago
+1158,Customer 1158,22,Male,Los Angeles
+1159,Customer 1159,31,Female,New York
+1160,Customer 1160,76,Other,Houston
+1161,Customer 1161,37,Female,Chicago
+1162,Customer 1162,53,Male,Miami
+1163,Customer 1163,73,Female,Houston
+1164,Customer 1164,30,Male,Houston
+1165,Customer 1165,35,Female,Houston
+1166,Customer 1166,29,Other,Chicago
+1167,Customer 1167,23,Male,New York
+1168,Customer 1168,63,Other,Houston
+1169,Customer 1169,79,Male,Houston
+1170,Customer 1170,68,Female,Miami
+1171,Customer 1171,79,Male,Chicago
+1172,Customer 1172,23,Female,Chicago
+1173,Customer 1173,69,Other,Chicago
+1174,Customer 1174,21,Female,Houston
+1175,Customer 1175,55,Female,Los Angeles
+1176,Customer 1176,54,Female,Chicago
+1177,Customer 1177,79,Other,Chicago
+1178,Customer 1178,27,Other,Miami
+1179,Customer 1179,37,Male,Chicago
+1180,Customer 1180,62,Female,Los Angeles
+1181,Customer 1181,34,Female,Houston
+1182,Customer 1182,41,Other,Miami
+1183,Customer 1183,58,Female,Miami
+1184,Customer 1184,24,Other,Miami
+1185,Customer 1185,59,Other,Houston
+1186,Customer 1186,19,Female,Houston
+1187,Customer 1187,48,Male,New York
+1188,Customer 1188,74,Male,Miami
+1189,Customer 1189,38,Female,Los Angeles
+1190,Customer 1190,78,Female,New York
+1191,Customer 1191,63,Female,New York
+1192,Customer 1192,39,Male,Miami
+1193,Customer 1193,41,Female,Houston
+1194,Customer 1194,35,Female,Chicago
+1195,Customer 1195,35,Other,New York
+1196,Customer 1196,38,Other,New York
+1197,Customer 1197,22,Male,Miami
+1198,Customer 1198,52,Male,Houston
+1199,Customer 1199,25,Male,Los Angeles
+1200,Customer 1200,30,Female,Chicago
+1201,Customer 1201,74,Female,Chicago
+1202,Customer 1202,32,Other,Miami
+1203,Customer 1203,72,Other,Houston
+1204,Customer 1204,48,Female,Houston
+1205,Customer 1205,76,Female,Los Angeles
+1206,Customer 1206,29,Other,Houston
+1207,Customer 1207,71,Female,Houston
+1208,Customer 1208,48,Female,Chicago
+1209,Customer 1209,42,Male,New York
+1210,Customer 1210,20,Female,Los Angeles
+1211,Customer 1211,61,Other,Miami
+1212,Customer 1212,67,Female,Houston
+1213,Customer 1213,23,Female,Houston
+1214,Customer 1214,52,Female,New York
+1215,Customer 1215,20,Male,Houston
+1216,Customer 1216,22,Female,Miami
+1217,Customer 1217,53,Female,Miami
+1218,Customer 1218,56,Female,New York
+1219,Customer 1219,40,Female,New York
+1220,Customer 1220,58,Male,Los Angeles
+1221,Customer 1221,75,Other,Los Angeles
+1222,Customer 1222,51,Female,Houston
+1223,Customer 1223,31,Male,Houston
+1224,Customer 1224,42,Other,New York
+1225,Customer 1225,50,Male,Miami
+1226,Customer 1226,68,Female,New York
+1227,Customer 1227,36,Other,Chicago
+1228,Customer 1228,18,Female,New York
+1229,Customer 1229,39,Female,Los Angeles
+1230,Customer 1230,78,Female,Chicago
+1231,Customer 1231,24,Other,Miami
+1232,Customer 1232,19,Other,New York
+1233,Customer 1233,23,Male,Chicago
+1234,Customer 1234,60,Other,New York
+1235,Customer 1235,35,Male,Chicago
+1236,Customer 1236,21,Female,Chicago
+1237,Customer 1237,29,Other,New York
+1238,Customer 1238,70,Male,Miami
+1239,Customer 1239,67,Female,Los Angeles
+1240,Customer 1240,44,Female,Houston
+1241,Customer 1241,62,Female,Miami
+1242,Customer 1242,56,Other,Houston
+1243,Customer 1243,32,Other,Miami
+1244,Customer 1244,19,Female,Houston
+1245,Customer 1245,56,Male,Chicago
+1246,Customer 1246,67,Female,Los Angeles
+1247,Customer 1247,69,Male,Houston
+1248,Customer 1248,43,Female,New York
+1249,Customer 1249,47,Male,Houston
+1250,Customer 1250,24,Female,New York
+1251,Customer 1251,24,Female,Los Angeles
+1252,Customer 1252,46,Male,Miami
+1253,Customer 1253,21,Other,Houston
+1254,Customer 1254,19,Male,Chicago
+1255,Customer 1255,21,Other,New York
+1256,Customer 1256,41,Female,Los Angeles
+1257,Customer 1257,74,Other,Chicago
+1258,Customer 1258,75,Male,Houston
+1259,Customer 1259,73,Male,Chicago
+1260,Customer 1260,79,Male,Houston
+1261,Customer 1261,50,Male,New York
+1262,Customer 1262,33,Male,Miami
+1263,Customer 1263,54,Female,Los Angeles
+1264,Customer 1264,46,Female,Miami
+1265,Customer 1265,55,Other,Houston
+1266,Customer 1266,77,Male,New York
+1267,Customer 1267,77,Other,Chicago
+1268,Customer 1268,30,Female,Chicago
+1269,Customer 1269,57,Female,Los Angeles
+1270,Customer 1270,35,Male,Houston
+1271,Customer 1271,40,Male,Los Angeles
+1272,Customer 1272,65,Female,Houston
+1273,Customer 1273,36,Other,New York
+1274,Customer 1274,20,Other,Miami
+1275,Customer 1275,34,Other,New York
+1276,Customer 1276,60,Female,Houston
+1277,Customer 1277,34,Male,Houston
+1278,Customer 1278,46,Male,Houston
+1279,Customer 1279,52,Male,Chicago
+1280,Customer 1280,68,Other,New York
+1281,Customer 1281,21,Female,New York
+1282,Customer 1282,59,Other,Miami
+1283,Customer 1283,72,Other,Miami
+1284,Customer 1284,75,Other,Houston
+1285,Customer 1285,73,Other,Los Angeles
+1286,Customer 1286,46,Female,Chicago
+1287,Customer 1287,43,Male,Houston
+1288,Customer 1288,20,Male,Houston
+1289,Customer 1289,49,Female,New York
+1290,Customer 1290,21,Other,Los Angeles
+1291,Customer 1291,66,Other,Miami
+1292,Customer 1292,27,Other,Miami
+1293,Customer 1293,50,Male,New York
+1294,Customer 1294,32,Male,New York
+1295,Customer 1295,47,Female,Los Angeles
+1296,Customer 1296,69,Other,Los Angeles
+1297,Customer 1297,48,Male,Chicago
+1298,Customer 1298,56,Other,New York
+1299,Customer 1299,32,Male,Los Angeles
+1300,Customer 1300,54,Other,Los Angeles
+1301,Customer 1301,36,Male,Chicago
+1302,Customer 1302,67,Male,New York
+1303,Customer 1303,33,Female,Chicago
+1304,Customer 1304,27,Other,New York
+1305,Customer 1305,32,Female,Los Angeles
+1306,Customer 1306,20,Female,New York
+1307,Customer 1307,52,Other,Houston
+1308,Customer 1308,65,Other,New York
+1309,Customer 1309,41,Male,Los Angeles
+1310,Customer 1310,61,Female,Houston
+1311,Customer 1311,35,Male,Houston
+1312,Customer 1312,72,Male,Chicago
+1313,Customer 1313,69,Male,Houston
+1314,Customer 1314,42,Male,Miami
+1315,Customer 1315,41,Female,Chicago
+1316,Customer 1316,68,Female,Chicago
+1317,Customer 1317,19,Female,New York
+1318,Customer 1318,33,Female,Los Angeles
+1319,Customer 1319,39,Male,Miami
+1320,Customer 1320,41,Male,Houston
+1321,Customer 1321,72,Female,Miami
+1322,Customer 1322,56,Other,Houston
+1323,Customer 1323,38,Male,New York
+1324,Customer 1324,28,Other,Miami
+1325,Customer 1325,60,Other,Houston
+1326,Customer 1326,34,Female,Miami
+1327,Customer 1327,57,Other,New York
+1328,Customer 1328,22,Male,Miami
+1329,Customer 1329,67,Male,Los Angeles
+1330,Customer 1330,24,Male,Houston
+1331,Customer 1331,32,Other,New York
+1332,Customer 1332,30,Other,Los Angeles
+1333,Customer 1333,25,Female,Los Angeles
+1334,Customer 1334,52,Male,Chicago
+1335,Customer 1335,25,Male,Chicago
+1336,Customer 1336,56,Other,Houston
+1337,Customer 1337,54,Female,Chicago
+1338,Customer 1338,35,Other,Houston
+1339,Customer 1339,25,Female,Houston
+1340,Customer 1340,46,Other,Los Angeles
+1341,Customer 1341,19,Other,New York
+1342,Customer 1342,37,Male,Los Angeles
+1343,Customer 1343,62,Female,New York
+1344,Customer 1344,48,Male,Miami
+1345,Customer 1345,50,Female,Miami
+1346,Customer 1346,39,Male,Chicago
+1347,Customer 1347,27,Male,Miami
+1348,Customer 1348,74,Male,Miami
+1349,Customer 1349,33,Female,New York
+1350,Customer 1350,46,Male,Houston
+1351,Customer 1351,26,Female,New York
+1352,Customer 1352,29,Other,Miami
+1353,Customer 1353,76,Other,New York
+1354,Customer 1354,45,Female,Houston
+1355,Customer 1355,25,Other,New York
+1356,Customer 1356,40,Male,Houston
+1357,Customer 1357,22,Male,Miami
+1358,Customer 1358,33,Male,Chicago
+1359,Customer 1359,22,Male,Houston
+1360,Customer 1360,50,Male,New York
+1361,Customer 1361,58,Male,Los Angeles
+1362,Customer 1362,64,Male,Houston
+1363,Customer 1363,24,Male,Chicago
+1364,Customer 1364,66,Male,Chicago
+1365,Customer 1365,62,Male,Miami
+1366,Customer 1366,65,Male,Miami
+1367,Customer 1367,60,Other,New York
+1368,Customer 1368,35,Male,New York
+1369,Customer 1369,57,Female,New York
+1370,Customer 1370,62,Other,Houston
+1371,Customer 1371,67,Male,Los Angeles
+1372,Customer 1372,74,Female,Houston
+1373,Customer 1373,54,Female,Chicago
+1374,Customer 1374,55,Other,Chicago
+1375,Customer 1375,25,Female,New York
+1376,Customer 1376,66,Other,Miami
+1377,Customer 1377,38,Male,New York
+1378,Customer 1378,67,Male,New York
+1379,Customer 1379,30,Male,New York
+1380,Customer 1380,39,Male,Chicago
+1381,Customer 1381,19,Other,Miami
+1382,Customer 1382,46,Other,Chicago
+1383,Customer 1383,73,Female,New York
+1384,Customer 1384,45,Female,Houston
+1385,Customer 1385,61,Male,Miami
+1386,Customer 1386,74,Male,Miami
+1387,Customer 1387,48,Female,Miami
+1388,Customer 1388,23,Male,Houston
+1389,Customer 1389,22,Male,Los Angeles
+1390,Customer 1390,34,Female,Houston
+1391,Customer 1391,63,Male,Houston
+1392,Customer 1392,40,Female,New York
+1393,Customer 1393,26,Male,Chicago
+1394,Customer 1394,75,Other,Chicago
+1395,Customer 1395,40,Male,New York
+1396,Customer 1396,22,Other,New York
+1397,Customer 1397,52,Male,Houston
+1398,Customer 1398,59,Other,Miami
+1399,Customer 1399,51,Female,New York
+1400,Customer 1400,64,Other,New York
+1401,Customer 1401,30,Male,Houston
+1402,Customer 1402,74,Male,Miami
+1403,Customer 1403,18,Other,Los Angeles
+1404,Customer 1404,69,Female,Miami
+1405,Customer 1405,58,Female,New York
+1406,Customer 1406,30,Female,Chicago
+1407,Customer 1407,31,Female,Houston
+1408,Customer 1408,69,Female,Chicago
+1409,Customer 1409,35,Other,New York
+1410,Customer 1410,55,Female,Houston
+1411,Customer 1411,54,Other,Houston
+1412,Customer 1412,29,Female,Los Angeles
+1413,Customer 1413,19,Female,Los Angeles
+1414,Customer 1414,47,Male,Chicago
+1415,Customer 1415,74,Other,Chicago
+1416,Customer 1416,36,Other,Miami
+1417,Customer 1417,31,Male,Chicago
+1418,Customer 1418,68,Female,Houston
+1419,Customer 1419,66,Female,Chicago
+1420,Customer 1420,50,Other,New York
+1421,Customer 1421,53,Male,Miami
+1422,Customer 1422,68,Female,Miami
+1423,Customer 1423,78,Male,Los Angeles
+1424,Customer 1424,65,Male,Houston
+1425,Customer 1425,72,Female,Miami
+1426,Customer 1426,78,Female,Miami
+1427,Customer 1427,58,Other,Los Angeles
+1428,Customer 1428,32,Female,Chicago
+1429,Customer 1429,28,Female,New York
+1430,Customer 1430,35,Female,Chicago
+1431,Customer 1431,64,Female,Chicago
+1432,Customer 1432,55,Female,Los Angeles
+1433,Customer 1433,69,Male,Los Angeles
+1434,Customer 1434,20,Other,Miami
+1435,Customer 1435,18,Male,Houston
+1436,Customer 1436,28,Other,Miami
+1437,Customer 1437,53,Male,Los Angeles
+1438,Customer 1438,66,Female,New York
+1439,Customer 1439,58,Other,Houston
+1440,Customer 1440,57,Female,New York
+1441,Customer 1441,43,Female,Houston
+1442,Customer 1442,19,Female,Miami
+1443,Customer 1443,42,Female,New York
+1444,Customer 1444,50,Male,New York
+1445,Customer 1445,44,Other,Miami
+1446,Customer 1446,29,Other,New York
+1447,Customer 1447,22,Male,Los Angeles
+1448,Customer 1448,50,Female,Houston
+1449,Customer 1449,56,Male,Los Angeles
+1450,Customer 1450,72,Female,New York
+1451,Customer 1451,47,Female,New York
+1452,Customer 1452,40,Other,Miami
+1453,Customer 1453,42,Female,Miami
+1454,Customer 1454,67,Other,Chicago
+1455,Customer 1455,47,Other,Los Angeles
+1456,Customer 1456,75,Male,Chicago
+1457,Customer 1457,72,Other,Houston
+1458,Customer 1458,40,Female,Los Angeles
+1459,Customer 1459,38,Other,Miami
+1460,Customer 1460,47,Other,New York
+1461,Customer 1461,46,Other,Los Angeles
+1462,Customer 1462,58,Other,Chicago
+1463,Customer 1463,40,Other,Los Angeles
+1464,Customer 1464,22,Female,Chicago
+1465,Customer 1465,68,Male,New York
+1466,Customer 1466,75,Male,New York
+1467,Customer 1467,47,Female,Miami
+1468,Customer 1468,46,Female,Miami
+1469,Customer 1469,29,Female,New York
+1470,Customer 1470,27,Other,Miami
+1471,Customer 1471,72,Male,Miami
+1472,Customer 1472,52,Male,Houston
+1473,Customer 1473,49,Other,Houston
+1474,Customer 1474,18,Male,Houston
+1475,Customer 1475,40,Other,Houston
+1476,Customer 1476,78,Female,Houston
+1477,Customer 1477,63,Female,Miami
+1478,Customer 1478,53,Female,Chicago
+1479,Customer 1479,59,Male,Houston
+1480,Customer 1480,67,Male,New York
+1481,Customer 1481,51,Male,Houston
+1482,Customer 1482,42,Male,Miami
+1483,Customer 1483,77,Other,New York
+1484,Customer 1484,56,Other,Houston
+1485,Customer 1485,51,Female,Miami
+1486,Customer 1486,69,Other,Los Angeles
+1487,Customer 1487,33,Male,Los Angeles
+1488,Customer 1488,68,Other,Miami
+1489,Customer 1489,22,Male,Chicago
+1490,Customer 1490,64,Male,Chicago
+1491,Customer 1491,20,Female,Los Angeles
+1492,Customer 1492,19,Other,Los Angeles
+1493,Customer 1493,72,Female,Los Angeles
+1494,Customer 1494,23,Male,Houston
+1495,Customer 1495,34,Male,Los Angeles
+1496,Customer 1496,47,Other,Los Angeles
+1497,Customer 1497,76,Other,Miami
+1498,Customer 1498,24,Male,Miami
+1499,Customer 1499,56,Other,Chicago
+1500,Customer 1500,59,Female,Houston
+1501,Customer 1501,61,Male,New York
+1502,Customer 1502,38,Other,Houston
+1503,Customer 1503,39,Female,Miami
+1504,Customer 1504,43,Other,Miami
+1505,Customer 1505,77,Female,Los Angeles
+1506,Customer 1506,73,Other,Miami
+1507,Customer 1507,66,Other,Miami
+1508,Customer 1508,73,Other,Chicago
+1509,Customer 1509,57,Male,Miami
+1510,Customer 1510,71,Female,New York
+1511,Customer 1511,68,Male,New York
+1512,Customer 1512,29,Male,Chicago
+1513,Customer 1513,61,Male,Miami
+1514,Customer 1514,65,Female,New York
+1515,Customer 1515,50,Other,Los Angeles
+1516,Customer 1516,52,Other,Houston
+1517,Customer 1517,79,Female,Chicago
+1518,Customer 1518,44,Female,Chicago
+1519,Customer 1519,27,Other,New York
+1520,Customer 1520,58,Female,Miami
+1521,Customer 1521,35,Male,Miami
+1522,Customer 1522,28,Male,New York
+1523,Customer 1523,71,Male,Houston
+1524,Customer 1524,68,Female,Miami
+1525,Customer 1525,61,Female,Miami
+1526,Customer 1526,29,Male,Los Angeles
+1527,Customer 1527,40,Male,New York
+1528,Customer 1528,34,Male,Miami
+1529,Customer 1529,20,Other,Chicago
+1530,Customer 1530,24,Male,Houston
+1531,Customer 1531,29,Other,Chicago
+1532,Customer 1532,45,Other,New York
+1533,Customer 1533,62,Male,Chicago
+1534,Customer 1534,70,Other,Miami
+1535,Customer 1535,19,Other,Houston
+1536,Customer 1536,34,Female,Los Angeles
+1537,Customer 1537,62,Other,Miami
+1538,Customer 1538,24,Other,New York
+1539,Customer 1539,62,Female,Houston
+1540,Customer 1540,70,Male,New York
+1541,Customer 1541,27,Male,Chicago
+1542,Customer 1542,57,Female,Chicago
+1543,Customer 1543,73,Other,New York
+1544,Customer 1544,33,Male,New York
+1545,Customer 1545,30,Male,Chicago
+1546,Customer 1546,71,Male,Miami
+1547,Customer 1547,68,Male,New York
+1548,Customer 1548,28,Male,Chicago
+1549,Customer 1549,50,Other,New York
+1550,Customer 1550,63,Female,Houston
+1551,Customer 1551,46,Other,Chicago
+1552,Customer 1552,61,Female,Chicago
+1553,Customer 1553,70,Other,Chicago
+1554,Customer 1554,68,Other,Houston
+1555,Customer 1555,41,Other,Houston
+1556,Customer 1556,25,Other,Los Angeles
+1557,Customer 1557,55,Female,New York
+1558,Customer 1558,19,Female,Los Angeles
+1559,Customer 1559,61,Male,New York
+1560,Customer 1560,30,Other,Los Angeles
+1561,Customer 1561,57,Other,New York
+1562,Customer 1562,22,Male,Chicago
+1563,Customer 1563,40,Other,Miami
+1564,Customer 1564,62,Male,Miami
+1565,Customer 1565,57,Other,Miami
+1566,Customer 1566,78,Male,Houston
+1567,Customer 1567,19,Female,Chicago
+1568,Customer 1568,25,Female,New York
+1569,Customer 1569,43,Male,Miami
+1570,Customer 1570,67,Other,Miami
+1571,Customer 1571,19,Female,Los Angeles
+1572,Customer 1572,22,Male,New York
+1573,Customer 1573,58,Male,Houston
+1574,Customer 1574,29,Male,Los Angeles
+1575,Customer 1575,25,Other,New York
+1576,Customer 1576,65,Female,Chicago
+1577,Customer 1577,64,Female,Houston
+1578,Customer 1578,31,Other,New York
+1579,Customer 1579,20,Male,Chicago
+1580,Customer 1580,79,Other,Miami
+1581,Customer 1581,52,Male,Los Angeles
+1582,Customer 1582,23,Other,Chicago
+1583,Customer 1583,53,Female,Miami
+1584,Customer 1584,72,Female,New York
+1585,Customer 1585,70,Female,Los Angeles
+1586,Customer 1586,73,Other,Houston
+1587,Customer 1587,19,Other,Los Angeles
+1588,Customer 1588,48,Male,Houston
+1589,Customer 1589,46,Female,Houston
+1590,Customer 1590,70,Other,Chicago
+1591,Customer 1591,76,Male,Los Angeles
+1592,Customer 1592,20,Female,Miami
+1593,Customer 1593,52,Female,Houston
+1594,Customer 1594,19,Male,Los Angeles
+1595,Customer 1595,56,Male,New York
+1596,Customer 1596,33,Male,Los Angeles
+1597,Customer 1597,38,Female,Los Angeles
+1598,Customer 1598,46,Female,New York
+1599,Customer 1599,28,Female,Los Angeles
+1600,Customer 1600,75,Female,Miami
+1601,Customer 1601,60,Male,Houston
+1602,Customer 1602,74,Other,Houston
+1603,Customer 1603,65,Male,New York
+1604,Customer 1604,60,Female,Houston
+1605,Customer 1605,30,Female,Chicago
+1606,Customer 1606,30,Female,Chicago
+1607,Customer 1607,58,Other,New York
+1608,Customer 1608,43,Female,Chicago
+1609,Customer 1609,75,Other,Miami
+1610,Customer 1610,33,Male,Houston
+1611,Customer 1611,46,Other,Chicago
+1612,Customer 1612,78,Female,Miami
+1613,Customer 1613,59,Other,Miami
+1614,Customer 1614,52,Female,Chicago
+1615,Customer 1615,26,Other,Miami
+1616,Customer 1616,59,Female,Houston
+1617,Customer 1617,67,Male,Houston
+1618,Customer 1618,50,Male,Chicago
+1619,Customer 1619,72,Female,New York
+1620,Customer 1620,44,Female,Chicago
+1621,Customer 1621,59,Male,Houston
+1622,Customer 1622,49,Male,Houston
+1623,Customer 1623,37,Male,Chicago
+1624,Customer 1624,76,Male,Los Angeles
+1625,Customer 1625,34,Other,Houston
+1626,Customer 1626,78,Female,Chicago
+1627,Customer 1627,50,Other,Houston
+1628,Customer 1628,62,Female,Los Angeles
+1629,Customer 1629,53,Male,New York
+1630,Customer 1630,25,Female,Los Angeles
+1631,Customer 1631,39,Female,Houston
+1632,Customer 1632,42,Other,Houston
+1633,Customer 1633,58,Female,Houston
+1634,Customer 1634,78,Female,New York
+1635,Customer 1635,23,Other,Los Angeles
+1636,Customer 1636,70,Other,Miami
+1637,Customer 1637,66,Female,Chicago
+1638,Customer 1638,72,Other,Los Angeles
+1639,Customer 1639,71,Other,Miami
+1640,Customer 1640,65,Male,Chicago
+1641,Customer 1641,35,Other,Houston
+1642,Customer 1642,42,Male,Miami
+1643,Customer 1643,42,Male,Houston
+1644,Customer 1644,58,Female,New York
+1645,Customer 1645,41,Male,Los Angeles
+1646,Customer 1646,72,Female,Chicago
+1647,Customer 1647,21,Other,Chicago
+1648,Customer 1648,41,Other,Chicago
+1649,Customer 1649,72,Male,Houston
+1650,Customer 1650,79,Male,Miami
+1651,Customer 1651,55,Other,Chicago
+1652,Customer 1652,43,Male,New York
+1653,Customer 1653,73,Female,New York
+1654,Customer 1654,41,Other,Chicago
+1655,Customer 1655,46,Female,New York
+1656,Customer 1656,72,Other,Los Angeles
+1657,Customer 1657,43,Other,Houston
+1658,Customer 1658,26,Other,New York
+1659,Customer 1659,77,Male,New York
+1660,Customer 1660,53,Female,Miami
+1661,Customer 1661,70,Male,Los Angeles
+1662,Customer 1662,67,Male,Houston
+1663,Customer 1663,54,Female,New York
+1664,Customer 1664,19,Male,New York
+1665,Customer 1665,26,Female,Miami
+1666,Customer 1666,56,Male,New York
+1667,Customer 1667,39,Male,Chicago
+1668,Customer 1668,74,Other,Chicago
+1669,Customer 1669,64,Male,Los Angeles
+1670,Customer 1670,53,Male,Chicago
+1671,Customer 1671,61,Male,Miami
+1672,Customer 1672,79,Female,Chicago
+1673,Customer 1673,55,Male,Los Angeles
+1674,Customer 1674,27,Male,Miami
+1675,Customer 1675,18,Male,Houston
+1676,Customer 1676,32,Female,Miami
+1677,Customer 1677,41,Male,Miami
+1678,Customer 1678,64,Female,Los Angeles
+1679,Customer 1679,18,Female,Miami
+1680,Customer 1680,62,Other,Miami
+1681,Customer 1681,60,Other,Houston
+1682,Customer 1682,58,Male,Miami
+1683,Customer 1683,31,Female,Houston
+1684,Customer 1684,42,Female,Houston
+1685,Customer 1685,30,Female,Los Angeles
+1686,Customer 1686,29,Other,Houston
+1687,Customer 1687,20,Female,Miami
+1688,Customer 1688,52,Female,Miami
+1689,Customer 1689,20,Male,New York
+1690,Customer 1690,48,Male,Los Angeles
+1691,Customer 1691,29,Other,New York
+1692,Customer 1692,75,Other,Miami
+1693,Customer 1693,40,Other,Houston
+1694,Customer 1694,70,Female,Miami
+1695,Customer 1695,41,Other,Los Angeles
+1696,Customer 1696,44,Female,Houston
+1697,Customer 1697,78,Male,Miami
+1698,Customer 1698,20,Female,Chicago
+1699,Customer 1699,75,Female,Houston
+1700,Customer 1700,68,Male,Chicago
+1701,Customer 1701,60,Female,New York
+1702,Customer 1702,57,Other,Chicago
+1703,Customer 1703,53,Female,New York
+1704,Customer 1704,50,Female,New York
+1705,Customer 1705,55,Male,New York
+1706,Customer 1706,22,Male,Miami
+1707,Customer 1707,30,Other,Los Angeles
+1708,Customer 1708,53,Other,Houston
+1709,Customer 1709,57,Male,Los Angeles
+1710,Customer 1710,33,Other,New York
+1711,Customer 1711,55,Male,Los Angeles
+1712,Customer 1712,55,Male,New York
+1713,Customer 1713,72,Female,Los Angeles
+1714,Customer 1714,62,Male,Houston
+1715,Customer 1715,64,Other,New York
+1716,Customer 1716,43,Female,Miami
+1717,Customer 1717,33,Other,New York
+1718,Customer 1718,61,Male,Chicago
+1719,Customer 1719,30,Male,New York
+1720,Customer 1720,79,Male,New York
+1721,Customer 1721,18,Male,Houston
+1722,Customer 1722,35,Male,Houston
+1723,Customer 1723,25,Male,Houston
+1724,Customer 1724,56,Female,Houston
+1725,Customer 1725,32,Male,Chicago
+1726,Customer 1726,43,Other,New York
+1727,Customer 1727,62,Female,Chicago
+1728,Customer 1728,28,Female,Los Angeles
+1729,Customer 1729,46,Male,Miami
+1730,Customer 1730,40,Male,New York
+1731,Customer 1731,46,Male,New York
+1732,Customer 1732,67,Male,Houston
+1733,Customer 1733,34,Female,Chicago
+1734,Customer 1734,22,Male,Chicago
+1735,Customer 1735,79,Male,Chicago
+1736,Customer 1736,42,Other,Los Angeles
+1737,Customer 1737,23,Other,Miami
+1738,Customer 1738,32,Female,Houston
+1739,Customer 1739,71,Female,Los Angeles
+1740,Customer 1740,27,Male,New York
+1741,Customer 1741,69,Female,Chicago
+1742,Customer 1742,65,Other,Chicago
+1743,Customer 1743,32,Other,New York
+1744,Customer 1744,30,Other,Chicago
+1745,Customer 1745,18,Male,Houston
+1746,Customer 1746,24,Female,Houston
+1747,Customer 1747,48,Male,Chicago
+1748,Customer 1748,75,Female,Houston
+1749,Customer 1749,35,Other,New York
+1750,Customer 1750,60,Male,Chicago
+1751,Customer 1751,25,Male,Los Angeles
+1752,Customer 1752,35,Male,Los Angeles
+1753,Customer 1753,22,Male,Los Angeles
+1754,Customer 1754,37,Other,Miami
+1755,Customer 1755,30,Female,New York
+1756,Customer 1756,77,Female,Houston
+1757,Customer 1757,60,Female,Houston
+1758,Customer 1758,32,Other,New York
+1759,Customer 1759,74,Female,Los Angeles
+1760,Customer 1760,19,Male,Los Angeles
+1761,Customer 1761,54,Female,Houston
+1762,Customer 1762,43,Male,Chicago
+1763,Customer 1763,58,Other,Miami
+1764,Customer 1764,55,Other,Houston
+1765,Customer 1765,71,Other,New York
+1766,Customer 1766,25,Female,Chicago
+1767,Customer 1767,74,Male,Miami
+1768,Customer 1768,37,Other,Houston
+1769,Customer 1769,43,Male,Chicago
+1770,Customer 1770,72,Female,Houston
+1771,Customer 1771,41,Male,New York
+1772,Customer 1772,55,Female,Los Angeles
+1773,Customer 1773,76,Female,Miami
+1774,Customer 1774,57,Male,Chicago
+1775,Customer 1775,31,Female,Chicago
+1776,Customer 1776,22,Other,New York
+1777,Customer 1777,33,Female,Houston
+1778,Customer 1778,72,Other,Chicago
+1779,Customer 1779,42,Female,Los Angeles
+1780,Customer 1780,71,Male,Houston
+1781,Customer 1781,73,Female,Houston
+1782,Customer 1782,48,Female,Chicago
+1783,Customer 1783,28,Male,Miami
+1784,Customer 1784,68,Male,Houston
+1785,Customer 1785,45,Male,Miami
+1786,Customer 1786,70,Male,Houston
+1787,Customer 1787,52,Male,Miami
+1788,Customer 1788,72,Male,Houston
+1789,Customer 1789,42,Female,New York
+1790,Customer 1790,47,Male,New York
+1791,Customer 1791,69,Other,Miami
+1792,Customer 1792,35,Male,Miami
+1793,Customer 1793,30,Other,Chicago
+1794,Customer 1794,78,Other,Houston
+1795,Customer 1795,51,Female,Los Angeles
+1796,Customer 1796,48,Male,Miami
+1797,Customer 1797,46,Female,Miami
+1798,Customer 1798,68,Female,Miami
+1799,Customer 1799,71,Other,Houston
+1800,Customer 1800,70,Male,New York
+1801,Customer 1801,18,Male,New York
+1802,Customer 1802,63,Female,Los Angeles
+1803,Customer 1803,71,Male,New York
+1804,Customer 1804,53,Other,Miami
+1805,Customer 1805,68,Female,Chicago
+1806,Customer 1806,76,Male,Houston
+1807,Customer 1807,41,Male,Los Angeles
+1808,Customer 1808,65,Female,Miami
+1809,Customer 1809,79,Female,New York
+1810,Customer 1810,51,Female,New York
+1811,Customer 1811,79,Other,Los Angeles
+1812,Customer 1812,70,Female,New York
+1813,Customer 1813,18,Other,New York
+1814,Customer 1814,45,Male,New York
+1815,Customer 1815,71,Male,Miami
+1816,Customer 1816,79,Male,Chicago
+1817,Customer 1817,56,Female,Los Angeles
+1818,Customer 1818,62,Male,Houston
+1819,Customer 1819,26,Other,Chicago
+1820,Customer 1820,72,Other,Chicago
+1821,Customer 1821,54,Female,New York
+1822,Customer 1822,21,Male,New York
+1823,Customer 1823,22,Female,Los Angeles
+1824,Customer 1824,44,Male,Chicago
+1825,Customer 1825,68,Other,Chicago
+1826,Customer 1826,55,Other,Chicago
+1827,Customer 1827,29,Other,New York
+1828,Customer 1828,18,Other,Miami
+1829,Customer 1829,52,Other,Houston
+1830,Customer 1830,48,Male,Houston
+1831,Customer 1831,71,Other,Houston
+1832,Customer 1832,51,Other,Miami
+1833,Customer 1833,51,Male,Los Angeles
+1834,Customer 1834,72,Other,Houston
+1835,Customer 1835,45,Female,Los Angeles
+1836,Customer 1836,18,Other,New York
+1837,Customer 1837,50,Other,Chicago
+1838,Customer 1838,36,Male,Houston
+1839,Customer 1839,24,Female,Miami
+1840,Customer 1840,39,Male,New York
+1841,Customer 1841,66,Male,Houston
+1842,Customer 1842,23,Female,New York
+1843,Customer 1843,77,Other,New York
+1844,Customer 1844,47,Male,New York
+1845,Customer 1845,53,Female,New York
+1846,Customer 1846,50,Other,Miami
+1847,Customer 1847,36,Female,Los Angeles
+1848,Customer 1848,71,Male,Houston
+1849,Customer 1849,55,Male,Los Angeles
+1850,Customer 1850,31,Male,Los Angeles
+1851,Customer 1851,63,Female,Los Angeles
+1852,Customer 1852,52,Female,New York
+1853,Customer 1853,66,Male,Chicago
+1854,Customer 1854,27,Other,Chicago
+1855,Customer 1855,52,Female,New York
+1856,Customer 1856,31,Other,Chicago
+1857,Customer 1857,54,Other,Houston
+1858,Customer 1858,47,Male,Chicago
+1859,Customer 1859,43,Female,Chicago
+1860,Customer 1860,62,Female,Chicago
+1861,Customer 1861,65,Other,New York
+1862,Customer 1862,61,Female,Los Angeles
+1863,Customer 1863,73,Female,Miami
+1864,Customer 1864,79,Other,Houston
+1865,Customer 1865,34,Female,Miami
+1866,Customer 1866,21,Other,Los Angeles
+1867,Customer 1867,39,Female,Los Angeles
+1868,Customer 1868,72,Female,Houston
+1869,Customer 1869,69,Female,Los Angeles
+1870,Customer 1870,28,Male,New York
+1871,Customer 1871,39,Male,Miami
+1872,Customer 1872,47,Male,New York
+1873,Customer 1873,48,Other,New York
+1874,Customer 1874,46,Female,Los Angeles
+1875,Customer 1875,21,Other,Miami
+1876,Customer 1876,44,Male,New York
+1877,Customer 1877,68,Other,Chicago
+1878,Customer 1878,33,Male,Houston
+1879,Customer 1879,62,Male,Chicago
+1880,Customer 1880,40,Male,Los Angeles
+1881,Customer 1881,19,Male,Los Angeles
+1882,Customer 1882,27,Male,New York
+1883,Customer 1883,78,Male,Chicago
+1884,Customer 1884,77,Other,Houston
+1885,Customer 1885,60,Other,Chicago
+1886,Customer 1886,59,Other,New York
+1887,Customer 1887,23,Male,Houston
+1888,Customer 1888,63,Male,Miami
+1889,Customer 1889,58,Male,Chicago
+1890,Customer 1890,65,Other,New York
+1891,Customer 1891,71,Male,Los Angeles
+1892,Customer 1892,79,Female,Miami
+1893,Customer 1893,22,Female,Miami
+1894,Customer 1894,32,Male,Chicago
+1895,Customer 1895,57,Male,Los Angeles
+1896,Customer 1896,74,Other,Miami
+1897,Customer 1897,28,Male,Miami
+1898,Customer 1898,65,Female,Los Angeles
+1899,Customer 1899,79,Other,New York
+1900,Customer 1900,77,Female,Miami
+1901,Customer 1901,37,Other,Miami
+1902,Customer 1902,70,Other,Houston
+1903,Customer 1903,66,Other,Houston
+1904,Customer 1904,41,Female,Miami
+1905,Customer 1905,77,Other,Los Angeles
+1906,Customer 1906,55,Other,Los Angeles
+1907,Customer 1907,50,Other,Miami
+1908,Customer 1908,71,Other,Houston
+1909,Customer 1909,42,Female,Los Angeles
+1910,Customer 1910,76,Male,Chicago
+1911,Customer 1911,76,Female,Chicago
+1912,Customer 1912,59,Other,Miami
+1913,Customer 1913,73,Male,New York
+1914,Customer 1914,48,Female,Los Angeles
+1915,Customer 1915,60,Other,Los Angeles
+1916,Customer 1916,69,Other,Miami
+1917,Customer 1917,42,Female,New York
+1918,Customer 1918,27,Male,Houston
+1919,Customer 1919,20,Other,Houston
+1920,Customer 1920,29,Male,Miami
+1921,Customer 1921,23,Female,Houston
+1922,Customer 1922,78,Female,New York
+1923,Customer 1923,76,Male,Los Angeles
+1924,Customer 1924,65,Male,Miami
+1925,Customer 1925,48,Other,Miami
+1926,Customer 1926,61,Male,New York
+1927,Customer 1927,73,Other,Chicago
+1928,Customer 1928,45,Male,Chicago
+1929,Customer 1929,49,Other,Chicago
+1930,Customer 1930,22,Male,Chicago
+1931,Customer 1931,74,Male,Los Angeles
+1932,Customer 1932,37,Female,Miami
+1933,Customer 1933,67,Male,New York
+1934,Customer 1934,28,Male,New York
+1935,Customer 1935,55,Female,Chicago
+1936,Customer 1936,60,Female,Houston
+1937,Customer 1937,34,Other,Miami
+1938,Customer 1938,27,Female,New York
+1939,Customer 1939,76,Female,Chicago
+1940,Customer 1940,31,Male,Chicago
+1941,Customer 1941,61,Female,Houston
+1942,Customer 1942,47,Female,Houston
+1943,Customer 1943,59,Male,New York
+1944,Customer 1944,54,Female,New York
+1945,Customer 1945,21,Female,New York
+1946,Customer 1946,53,Other,Chicago
+1947,Customer 1947,65,Female,Chicago
+1948,Customer 1948,72,Female,Los Angeles
+1949,Customer 1949,32,Female,Miami
+1950,Customer 1950,24,Other,Los Angeles
+1951,Customer 1951,22,Other,Los Angeles
+1952,Customer 1952,56,Male,Houston
+1953,Customer 1953,42,Female,New York
+1954,Customer 1954,44,Male,Miami
+1955,Customer 1955,68,Other,Miami
+1956,Customer 1956,71,Male,Los Angeles
+1957,Customer 1957,22,Male,New York
+1958,Customer 1958,76,Female,Chicago
+1959,Customer 1959,75,Female,Chicago
+1960,Customer 1960,24,Other,New York
+1961,Customer 1961,22,Female,Chicago
+1962,Customer 1962,40,Male,Los Angeles
+1963,Customer 1963,33,Other,Houston
+1964,Customer 1964,40,Other,New York
+1965,Customer 1965,39,Other,Houston
+1966,Customer 1966,25,Other,Chicago
+1967,Customer 1967,48,Other,New York
+1968,Customer 1968,24,Male,Chicago
+1969,Customer 1969,24,Male,Houston
+1970,Customer 1970,42,Female,Miami
+1971,Customer 1971,65,Other,Chicago
+1972,Customer 1972,20,Other,Chicago
+1973,Customer 1973,53,Male,Houston
+1974,Customer 1974,30,Other,Los Angeles
+1975,Customer 1975,31,Female,Los Angeles
+1976,Customer 1976,20,Other,Los Angeles
+1977,Customer 1977,43,Male,Miami
+1978,Customer 1978,29,Female,Chicago
+1979,Customer 1979,42,Male,Miami
+1980,Customer 1980,18,Other,Chicago
+1981,Customer 1981,22,Other,Los Angeles
+1982,Customer 1982,19,Other,Miami
+1983,Customer 1983,28,Male,Chicago
+1984,Customer 1984,78,Male,Houston
+1985,Customer 1985,26,Other,Houston
+1986,Customer 1986,28,Male,New York
+1987,Customer 1987,23,Female,New York
+1988,Customer 1988,31,Female,Miami
+1989,Customer 1989,67,Female,Los Angeles
+1990,Customer 1990,31,Male,Houston
+1991,Customer 1991,38,Other,Houston
+1992,Customer 1992,18,Female,Los Angeles
+1993,Customer 1993,79,Other,Miami
+1994,Customer 1994,63,Female,Chicago
+1995,Customer 1995,52,Female,Los Angeles
+1996,Customer 1996,50,Male,Houston
+1997,Customer 1997,67,Other,Miami
+1998,Customer 1998,37,Male,New York
+1999,Customer 1999,68,Other,Chicago
+2000,Customer 2000,60,Male,Miami
+2001,Customer 2001,55,Male,Los Angeles
+2002,Customer 2002,58,Male,New York
+2003,Customer 2003,18,Male,Houston
+2004,Customer 2004,29,Male,Miami
+2005,Customer 2005,51,Other,Chicago
+2006,Customer 2006,43,Female,New York
+2007,Customer 2007,24,Male,Los Angeles
+2008,Customer 2008,65,Other,Miami
+2009,Customer 2009,74,Female,New York
+2010,Customer 2010,53,Female,Houston
+2011,Customer 2011,45,Female,Miami
+2012,Customer 2012,47,Other,Houston
+2013,Customer 2013,43,Male,Chicago
+2014,Customer 2014,54,Other,Miami
+2015,Customer 2015,41,Other,Los Angeles
+2016,Customer 2016,65,Male,New York
+2017,Customer 2017,62,Other,Houston
+2018,Customer 2018,47,Female,Chicago
+2019,Customer 2019,40,Female,Chicago
+2020,Customer 2020,73,Male,Houston
+2021,Customer 2021,66,Female,Miami
+2022,Customer 2022,51,Male,Chicago
+2023,Customer 2023,30,Male,Los Angeles
+2024,Customer 2024,39,Male,New York
+2025,Customer 2025,50,Female,Chicago
+2026,Customer 2026,67,Male,New York
+2027,Customer 2027,49,Male,Los Angeles
+2028,Customer 2028,18,Female,Chicago
+2029,Customer 2029,59,Male,Houston
+2030,Customer 2030,71,Male,Los Angeles
+2031,Customer 2031,61,Other,New York
+2032,Customer 2032,64,Other,New York
+2033,Customer 2033,34,Female,Miami
+2034,Customer 2034,30,Male,New York
+2035,Customer 2035,31,Female,Houston
+2036,Customer 2036,45,Female,Los Angeles
+2037,Customer 2037,63,Other,Chicago
+2038,Customer 2038,39,Other,Los Angeles
+2039,Customer 2039,73,Male,Los Angeles
+2040,Customer 2040,33,Male,Houston
+2041,Customer 2041,66,Other,New York
+2042,Customer 2042,19,Male,New York
+2043,Customer 2043,20,Male,Miami
+2044,Customer 2044,54,Female,Houston
+2045,Customer 2045,78,Male,Houston
+2046,Customer 2046,79,Female,New York
+2047,Customer 2047,19,Female,Houston
+2048,Customer 2048,68,Other,New York
+2049,Customer 2049,45,Other,New York
+2050,Customer 2050,25,Other,Miami
+2051,Customer 2051,41,Female,Chicago
+2052,Customer 2052,60,Other,Miami
+2053,Customer 2053,52,Other,New York
+2054,Customer 2054,31,Other,Chicago
+2055,Customer 2055,78,Male,New York
+2056,Customer 2056,66,Other,New York
+2057,Customer 2057,47,Male,Houston
+2058,Customer 2058,58,Other,Los Angeles
+2059,Customer 2059,72,Female,Chicago
+2060,Customer 2060,75,Other,Houston
+2061,Customer 2061,33,Other,Los Angeles
+2062,Customer 2062,39,Other,Los Angeles
+2063,Customer 2063,71,Other,Miami
+2064,Customer 2064,78,Other,Houston
+2065,Customer 2065,54,Other,Miami
+2066,Customer 2066,63,Male,Los Angeles
+2067,Customer 2067,70,Other,New York
+2068,Customer 2068,67,Female,New York
+2069,Customer 2069,46,Female,Houston
+2070,Customer 2070,23,Other,Chicago
+2071,Customer 2071,59,Male,Chicago
+2072,Customer 2072,39,Female,Los Angeles
+2073,Customer 2073,76,Other,Chicago
+2074,Customer 2074,52,Male,New York
+2075,Customer 2075,22,Male,Houston
+2076,Customer 2076,64,Female,Miami
+2077,Customer 2077,27,Male,New York
+2078,Customer 2078,74,Other,New York
+2079,Customer 2079,48,Male,Chicago
+2080,Customer 2080,74,Male,New York
+2081,Customer 2081,72,Female,Houston
+2082,Customer 2082,33,Other,Miami
+2083,Customer 2083,71,Female,Miami
+2084,Customer 2084,20,Male,Miami
+2085,Customer 2085,76,Male,Miami
+2086,Customer 2086,52,Other,Miami
+2087,Customer 2087,28,Other,Miami
+2088,Customer 2088,60,Female,Chicago
+2089,Customer 2089,75,Female,Chicago
+2090,Customer 2090,19,Female,Los Angeles
+2091,Customer 2091,30,Male,New York
+2092,Customer 2092,53,Male,Houston
+2093,Customer 2093,66,Female,Houston
+2094,Customer 2094,34,Female,New York
+2095,Customer 2095,35,Male,Los Angeles
+2096,Customer 2096,22,Other,Houston
+2097,Customer 2097,49,Female,New York
+2098,Customer 2098,21,Other,Chicago
+2099,Customer 2099,42,Other,Houston
+2100,Customer 2100,49,Male,Los Angeles
+2101,Customer 2101,65,Other,Los Angeles
+2102,Customer 2102,38,Female,New York
+2103,Customer 2103,26,Male,Los Angeles
+2104,Customer 2104,29,Male,New York
+2105,Customer 2105,20,Female,Houston
+2106,Customer 2106,57,Other,New York
+2107,Customer 2107,53,Male,Miami
+2108,Customer 2108,75,Other,Chicago
+2109,Customer 2109,32,Female,Miami
+2110,Customer 2110,64,Male,Chicago
+2111,Customer 2111,78,Female,Chicago
+2112,Customer 2112,78,Other,Houston
+2113,Customer 2113,78,Male,Los Angeles
+2114,Customer 2114,71,Other,Houston
+2115,Customer 2115,68,Male,Los Angeles
+2116,Customer 2116,58,Female,New York
+2117,Customer 2117,61,Other,Miami
+2118,Customer 2118,72,Female,Chicago
+2119,Customer 2119,35,Male,Chicago
+2120,Customer 2120,71,Male,Miami
+2121,Customer 2121,22,Other,Los Angeles
+2122,Customer 2122,58,Other,Chicago
+2123,Customer 2123,52,Female,Houston
+2124,Customer 2124,21,Female,Chicago
+2125,Customer 2125,44,Other,Los Angeles
+2126,Customer 2126,75,Male,Chicago
+2127,Customer 2127,29,Female,Chicago
+2128,Customer 2128,59,Male,Chicago
+2129,Customer 2129,26,Other,Chicago
+2130,Customer 2130,18,Other,New York
+2131,Customer 2131,79,Female,New York
+2132,Customer 2132,39,Other,Chicago
+2133,Customer 2133,36,Other,Miami
+2134,Customer 2134,54,Male,Houston
+2135,Customer 2135,48,Female,Miami
+2136,Customer 2136,22,Other,Los Angeles
+2137,Customer 2137,55,Other,Chicago
+2138,Customer 2138,34,Female,Los Angeles
+2139,Customer 2139,75,Female,Los Angeles
+2140,Customer 2140,67,Female,Miami
+2141,Customer 2141,48,Male,New York
+2142,Customer 2142,52,Female,New York
+2143,Customer 2143,60,Other,Houston
+2144,Customer 2144,53,Male,Los Angeles
+2145,Customer 2145,27,Male,Los Angeles
+2146,Customer 2146,65,Female,Chicago
+2147,Customer 2147,25,Other,Chicago
+2148,Customer 2148,74,Female,Houston
+2149,Customer 2149,57,Other,New York
+2150,Customer 2150,45,Male,New York
+2151,Customer 2151,18,Male,Houston
+2152,Customer 2152,71,Other,Miami
+2153,Customer 2153,60,Other,Chicago
+2154,Customer 2154,33,Other,Chicago
+2155,Customer 2155,29,Female,Los Angeles
+2156,Customer 2156,27,Female,Houston
+2157,Customer 2157,49,Male,Chicago
+2158,Customer 2158,61,Male,Houston
+2159,Customer 2159,63,Male,Chicago
+2160,Customer 2160,51,Male,New York
+2161,Customer 2161,76,Female,Houston
+2162,Customer 2162,39,Female,New York
+2163,Customer 2163,43,Female,Los Angeles
+2164,Customer 2164,45,Other,Chicago
+2165,Customer 2165,77,Female,New York
+2166,Customer 2166,23,Male,Houston
+2167,Customer 2167,18,Other,Houston
+2168,Customer 2168,71,Other,Miami
+2169,Customer 2169,75,Female,Chicago
+2170,Customer 2170,56,Female,Chicago
+2171,Customer 2171,55,Other,Los Angeles
+2172,Customer 2172,42,Male,New York
+2173,Customer 2173,24,Male,New York
+2174,Customer 2174,48,Other,New York
+2175,Customer 2175,19,Other,Chicago
+2176,Customer 2176,35,Male,New York
+2177,Customer 2177,52,Female,Miami
+2178,Customer 2178,42,Male,Los Angeles
+2179,Customer 2179,74,Female,Chicago
+2180,Customer 2180,69,Male,Houston
+2181,Customer 2181,30,Female,New York
+2182,Customer 2182,65,Male,Chicago
+2183,Customer 2183,39,Male,Chicago
+2184,Customer 2184,33,Other,Chicago
+2185,Customer 2185,55,Male,Houston
+2186,Customer 2186,28,Other,Chicago
+2187,Customer 2187,60,Other,Chicago
+2188,Customer 2188,48,Female,New York
+2189,Customer 2189,23,Female,Miami
+2190,Customer 2190,23,Female,Los Angeles
+2191,Customer 2191,65,Female,Los Angeles
+2192,Customer 2192,42,Other,Miami
+2193,Customer 2193,41,Other,Houston
+2194,Customer 2194,52,Male,Houston
+2195,Customer 2195,73,Male,Houston
+2196,Customer 2196,56,Male,Miami
+2197,Customer 2197,43,Other,Houston
+2198,Customer 2198,21,Other,Miami
+2199,Customer 2199,36,Female,Los Angeles
+2200,Customer 2200,31,Other,Miami
+2201,Customer 2201,70,Male,Los Angeles
+2202,Customer 2202,79,Female,Los Angeles
+2203,Customer 2203,41,Other,Houston
+2204,Customer 2204,70,Female,Chicago
+2205,Customer 2205,71,Female,Los Angeles
+2206,Customer 2206,79,Male,Miami
+2207,Customer 2207,18,Other,New York
+2208,Customer 2208,51,Female,Miami
+2209,Customer 2209,36,Female,Chicago
+2210,Customer 2210,29,Female,Los Angeles
+2211,Customer 2211,69,Male,Miami
+2212,Customer 2212,68,Male,Miami
+2213,Customer 2213,35,Male,New York
+2214,Customer 2214,68,Female,New York
+2215,Customer 2215,41,Male,Los Angeles
+2216,Customer 2216,62,Other,Houston
+2217,Customer 2217,35,Other,Chicago
+2218,Customer 2218,59,Other,New York
+2219,Customer 2219,29,Female,Los Angeles
+2220,Customer 2220,23,Male,Miami
+2221,Customer 2221,74,Male,Chicago
+2222,Customer 2222,72,Male,New York
+2223,Customer 2223,50,Other,Los Angeles
+2224,Customer 2224,25,Other,Chicago
+2225,Customer 2225,47,Female,Chicago
+2226,Customer 2226,20,Other,Los Angeles
+2227,Customer 2227,52,Other,Chicago
+2228,Customer 2228,67,Female,Los Angeles
+2229,Customer 2229,31,Other,Chicago
+2230,Customer 2230,19,Female,Chicago
+2231,Customer 2231,77,Female,Los Angeles
+2232,Customer 2232,66,Female,Houston
+2233,Customer 2233,64,Male,Houston
+2234,Customer 2234,21,Female,New York
+2235,Customer 2235,28,Female,New York
+2236,Customer 2236,24,Female,Houston
+2237,Customer 2237,29,Female,Miami
+2238,Customer 2238,51,Other,Miami
+2239,Customer 2239,30,Male,New York
+2240,Customer 2240,21,Male,Houston
+2241,Customer 2241,26,Female,Chicago
+2242,Customer 2242,79,Other,Chicago
+2243,Customer 2243,66,Male,Los Angeles
+2244,Customer 2244,54,Other,Miami
+2245,Customer 2245,69,Other,Miami
+2246,Customer 2246,69,Other,Houston
+2247,Customer 2247,78,Female,Los Angeles
+2248,Customer 2248,27,Female,Houston
+2249,Customer 2249,70,Female,Miami
+2250,Customer 2250,23,Other,Houston
+2251,Customer 2251,44,Female,Chicago
+2252,Customer 2252,38,Male,New York
+2253,Customer 2253,59,Other,Miami
+2254,Customer 2254,53,Female,Chicago
+2255,Customer 2255,60,Male,New York
+2256,Customer 2256,54,Female,Miami
+2257,Customer 2257,68,Other,Houston
+2258,Customer 2258,40,Female,Chicago
+2259,Customer 2259,28,Female,Houston
+2260,Customer 2260,66,Female,New York
+2261,Customer 2261,18,Other,Miami
+2262,Customer 2262,47,Female,Chicago
+2263,Customer 2263,55,Other,Miami
+2264,Customer 2264,60,Other,Houston
+2265,Customer 2265,51,Male,New York
+2266,Customer 2266,55,Other,Los Angeles
+2267,Customer 2267,78,Other,Chicago
+2268,Customer 2268,56,Male,Chicago
+2269,Customer 2269,54,Female,Houston
+2270,Customer 2270,76,Female,New York
+2271,Customer 2271,47,Female,Chicago
+2272,Customer 2272,66,Female,Miami
+2273,Customer 2273,40,Female,Miami
+2274,Customer 2274,63,Other,Miami
+2275,Customer 2275,73,Female,Houston
+2276,Customer 2276,57,Other,Miami
+2277,Customer 2277,19,Male,New York
+2278,Customer 2278,65,Female,Los Angeles
+2279,Customer 2279,24,Female,Chicago
+2280,Customer 2280,48,Other,Los Angeles
+2281,Customer 2281,54,Male,Chicago
+2282,Customer 2282,28,Male,New York
+2283,Customer 2283,20,Male,New York
+2284,Customer 2284,28,Other,New York
+2285,Customer 2285,44,Male,New York
+2286,Customer 2286,48,Female,Miami
+2287,Customer 2287,34,Female,Chicago
+2288,Customer 2288,44,Other,Miami
+2289,Customer 2289,73,Other,New York
+2290,Customer 2290,53,Male,Chicago
+2291,Customer 2291,54,Female,New York
+2292,Customer 2292,60,Male,Chicago
+2293,Customer 2293,39,Female,Los Angeles
+2294,Customer 2294,54,Other,Chicago
+2295,Customer 2295,69,Other,Los Angeles
+2296,Customer 2296,37,Male,Houston
+2297,Customer 2297,43,Female,Chicago
+2298,Customer 2298,70,Female,New York
+2299,Customer 2299,28,Female,Los Angeles
+2300,Customer 2300,59,Other,Houston
+2301,Customer 2301,65,Female,Houston
+2302,Customer 2302,55,Male,New York
+2303,Customer 2303,31,Female,Miami
+2304,Customer 2304,72,Male,Miami
+2305,Customer 2305,43,Male,New York
+2306,Customer 2306,58,Other,Chicago
+2307,Customer 2307,75,Male,Chicago
+2308,Customer 2308,19,Female,Chicago
+2309,Customer 2309,63,Male,Los Angeles
+2310,Customer 2310,73,Other,Houston
+2311,Customer 2311,20,Other,Miami
+2312,Customer 2312,69,Female,Los Angeles
+2313,Customer 2313,61,Other,Houston
+2314,Customer 2314,47,Other,Miami
+2315,Customer 2315,62,Male,New York
+2316,Customer 2316,46,Other,Houston
+2317,Customer 2317,48,Male,Miami
+2318,Customer 2318,51,Female,Miami
+2319,Customer 2319,49,Female,Houston
+2320,Customer 2320,37,Female,Chicago
+2321,Customer 2321,51,Other,Houston
+2322,Customer 2322,27,Other,Miami
+2323,Customer 2323,38,Female,Chicago
+2324,Customer 2324,42,Other,Chicago
+2325,Customer 2325,18,Other,Houston
+2326,Customer 2326,59,Male,Los Angeles
+2327,Customer 2327,22,Other,Miami
+2328,Customer 2328,47,Other,Houston
+2329,Customer 2329,42,Other,Miami
+2330,Customer 2330,65,Other,New York
+2331,Customer 2331,65,Female,Miami
+2332,Customer 2332,64,Female,Houston
+2333,Customer 2333,42,Male,Miami
+2334,Customer 2334,74,Female,Los Angeles
+2335,Customer 2335,66,Female,Los Angeles
+2336,Customer 2336,29,Female,Houston
+2337,Customer 2337,42,Other,Houston
+2338,Customer 2338,25,Male,Los Angeles
+2339,Customer 2339,47,Male,Chicago
+2340,Customer 2340,55,Female,Houston
+2341,Customer 2341,76,Male,Chicago
+2342,Customer 2342,23,Male,Houston
+2343,Customer 2343,76,Male,Miami
+2344,Customer 2344,76,Female,Miami
+2345,Customer 2345,72,Male,Los Angeles
+2346,Customer 2346,52,Male,Houston
+2347,Customer 2347,24,Other,Miami
+2348,Customer 2348,24,Other,Miami
+2349,Customer 2349,51,Other,New York
+2350,Customer 2350,36,Other,Houston
+2351,Customer 2351,71,Female,Los Angeles
+2352,Customer 2352,48,Other,Los Angeles
+2353,Customer 2353,27,Other,Los Angeles
+2354,Customer 2354,67,Other,Miami
+2355,Customer 2355,61,Male,Los Angeles
+2356,Customer 2356,75,Female,New York
+2357,Customer 2357,65,Other,New York
+2358,Customer 2358,44,Female,Los Angeles
+2359,Customer 2359,19,Other,Chicago
+2360,Customer 2360,32,Male,Miami
+2361,Customer 2361,21,Female,Miami
+2362,Customer 2362,31,Male,Miami
+2363,Customer 2363,50,Other,New York
+2364,Customer 2364,45,Male,Miami
+2365,Customer 2365,50,Female,Houston
+2366,Customer 2366,70,Other,Miami
+2367,Customer 2367,46,Female,Los Angeles
+2368,Customer 2368,46,Female,New York
+2369,Customer 2369,29,Female,Miami
+2370,Customer 2370,72,Other,Miami
+2371,Customer 2371,74,Male,Miami
+2372,Customer 2372,56,Other,New York
+2373,Customer 2373,69,Male,Los Angeles
+2374,Customer 2374,18,Female,New York
+2375,Customer 2375,28,Male,Chicago
+2376,Customer 2376,57,Male,Chicago
+2377,Customer 2377,31,Male,Houston
+2378,Customer 2378,30,Other,Miami
+2379,Customer 2379,33,Other,Los Angeles
+2380,Customer 2380,28,Female,Los Angeles
+2381,Customer 2381,18,Female,Los Angeles
+2382,Customer 2382,34,Male,Houston
+2383,Customer 2383,32,Female,Los Angeles
+2384,Customer 2384,35,Male,Houston
+2385,Customer 2385,44,Female,Chicago
+2386,Customer 2386,19,Other,Chicago
+2387,Customer 2387,55,Male,Chicago
+2388,Customer 2388,44,Other,New York
+2389,Customer 2389,62,Male,Los Angeles
+2390,Customer 2390,24,Other,Miami
+2391,Customer 2391,33,Other,Miami
+2392,Customer 2392,50,Other,Miami
+2393,Customer 2393,30,Male,Houston
+2394,Customer 2394,42,Other,Los Angeles
+2395,Customer 2395,30,Female,Miami
+2396,Customer 2396,31,Male,New York
+2397,Customer 2397,65,Male,New York
+2398,Customer 2398,24,Male,Houston
+2399,Customer 2399,56,Female,Houston
+2400,Customer 2400,56,Female,Chicago
+2401,Customer 2401,21,Male,Los Angeles
+2402,Customer 2402,72,Male,Los Angeles
+2403,Customer 2403,72,Other,New York
+2404,Customer 2404,65,Male,New York
+2405,Customer 2405,70,Female,New York
+2406,Customer 2406,61,Female,Houston
+2407,Customer 2407,46,Male,Miami
+2408,Customer 2408,21,Male,New York
+2409,Customer 2409,50,Male,Miami
+2410,Customer 2410,31,Female,Los Angeles
+2411,Customer 2411,23,Female,New York
+2412,Customer 2412,46,Male,Miami
+2413,Customer 2413,79,Other,Miami
+2414,Customer 2414,23,Other,New York
+2415,Customer 2415,57,Female,Miami
+2416,Customer 2416,52,Other,Los Angeles
+2417,Customer 2417,39,Other,Chicago
+2418,Customer 2418,61,Male,Chicago
+2419,Customer 2419,50,Male,Miami
+2420,Customer 2420,42,Female,Miami
+2421,Customer 2421,23,Female,Los Angeles
+2422,Customer 2422,48,Male,Miami
+2423,Customer 2423,79,Other,Houston
+2424,Customer 2424,24,Other,Chicago
+2425,Customer 2425,24,Other,Houston
+2426,Customer 2426,70,Other,Los Angeles
+2427,Customer 2427,64,Male,Chicago
+2428,Customer 2428,44,Male,Chicago
+2429,Customer 2429,56,Female,Chicago
+2430,Customer 2430,38,Male,Los Angeles
+2431,Customer 2431,71,Male,Houston
+2432,Customer 2432,27,Other,Chicago
+2433,Customer 2433,28,Female,Miami
+2434,Customer 2434,30,Other,Los Angeles
+2435,Customer 2435,37,Female,Chicago
+2436,Customer 2436,75,Female,New York
+2437,Customer 2437,51,Other,Los Angeles
+2438,Customer 2438,67,Male,Los Angeles
+2439,Customer 2439,50,Female,Chicago
+2440,Customer 2440,71,Male,Miami
+2441,Customer 2441,75,Female,Miami
+2442,Customer 2442,51,Female,New York
+2443,Customer 2443,27,Female,Chicago
+2444,Customer 2444,77,Female,Chicago
+2445,Customer 2445,64,Other,Los Angeles
+2446,Customer 2446,70,Male,Chicago
+2447,Customer 2447,44,Male,Houston
+2448,Customer 2448,57,Female,Miami
+2449,Customer 2449,37,Male,Miami
+2450,Customer 2450,20,Male,Chicago
+2451,Customer 2451,46,Female,Chicago
+2452,Customer 2452,57,Female,Miami
+2453,Customer 2453,48,Female,Miami
+2454,Customer 2454,40,Female,Houston
+2455,Customer 2455,24,Male,New York
+2456,Customer 2456,75,Male,Chicago
+2457,Customer 2457,50,Other,Los Angeles
+2458,Customer 2458,29,Male,Houston
+2459,Customer 2459,77,Female,Chicago
+2460,Customer 2460,50,Other,Chicago
+2461,Customer 2461,50,Male,Chicago
+2462,Customer 2462,58,Male,Houston
+2463,Customer 2463,69,Male,Houston
+2464,Customer 2464,24,Male,Miami
+2465,Customer 2465,32,Male,Los Angeles
+2466,Customer 2466,59,Other,Los Angeles
+2467,Customer 2467,33,Male,Chicago
+2468,Customer 2468,23,Female,Los Angeles
+2469,Customer 2469,74,Female,Miami
+2470,Customer 2470,60,Male,Miami
+2471,Customer 2471,39,Male,New York
+2472,Customer 2472,72,Female,Los Angeles
+2473,Customer 2473,61,Other,Houston
+2474,Customer 2474,26,Other,Chicago
+2475,Customer 2475,76,Male,Los Angeles
+2476,Customer 2476,34,Male,New York
+2477,Customer 2477,54,Female,New York
+2478,Customer 2478,44,Other,Houston
+2479,Customer 2479,53,Other,Miami
+2480,Customer 2480,49,Male,Chicago
+2481,Customer 2481,61,Male,Los Angeles
+2482,Customer 2482,19,Other,Los Angeles
+2483,Customer 2483,55,Male,New York
+2484,Customer 2484,62,Male,Houston
+2485,Customer 2485,46,Other,Miami
+2486,Customer 2486,54,Other,Miami
+2487,Customer 2487,77,Other,Houston
+2488,Customer 2488,25,Female,Houston
+2489,Customer 2489,31,Male,Miami
+2490,Customer 2490,20,Male,Miami
+2491,Customer 2491,20,Male,Los Angeles
+2492,Customer 2492,47,Other,Chicago
+2493,Customer 2493,71,Male,New York
+2494,Customer 2494,58,Male,Chicago
+2495,Customer 2495,24,Male,Los Angeles
+2496,Customer 2496,30,Other,Houston
+2497,Customer 2497,62,Other,Chicago
+2498,Customer 2498,74,Female,Los Angeles
+2499,Customer 2499,58,Male,Miami
+2500,Customer 2500,35,Male,Los Angeles
+2501,Customer 2501,45,Female,Los Angeles
+2502,Customer 2502,47,Male,Los Angeles
+2503,Customer 2503,41,Other,Los Angeles
+2504,Customer 2504,63,Female,New York
+2505,Customer 2505,59,Male,Chicago
+2506,Customer 2506,75,Other,Los Angeles
+2507,Customer 2507,26,Male,Miami
+2508,Customer 2508,29,Male,Houston
+2509,Customer 2509,66,Other,Los Angeles
+2510,Customer 2510,65,Male,New York
+2511,Customer 2511,61,Female,Miami
+2512,Customer 2512,68,Female,Houston
+2513,Customer 2513,23,Other,Chicago
+2514,Customer 2514,26,Other,Houston
+2515,Customer 2515,54,Female,Houston
+2516,Customer 2516,64,Male,Miami
+2517,Customer 2517,51,Female,Miami
+2518,Customer 2518,47,Other,Los Angeles
+2519,Customer 2519,76,Male,New York
+2520,Customer 2520,30,Other,Chicago
+2521,Customer 2521,63,Other,Chicago
+2522,Customer 2522,32,Male,New York
+2523,Customer 2523,75,Male,New York
+2524,Customer 2524,59,Other,Houston
+2525,Customer 2525,70,Female,Los Angeles
+2526,Customer 2526,66,Other,New York
+2527,Customer 2527,72,Other,Los Angeles
+2528,Customer 2528,40,Female,New York
+2529,Customer 2529,36,Female,New York
+2530,Customer 2530,74,Male,Los Angeles
+2531,Customer 2531,32,Other,Miami
+2532,Customer 2532,71,Male,New York
+2533,Customer 2533,34,Male,Chicago
+2534,Customer 2534,29,Male,Miami
+2535,Customer 2535,25,Other,Miami
+2536,Customer 2536,52,Male,Los Angeles
+2537,Customer 2537,19,Female,Houston
+2538,Customer 2538,54,Other,Chicago
+2539,Customer 2539,58,Other,Los Angeles
+2540,Customer 2540,45,Female,Miami
+2541,Customer 2541,42,Female,Miami
+2542,Customer 2542,73,Male,Houston
+2543,Customer 2543,20,Male,Los Angeles
+2544,Customer 2544,28,Male,Los Angeles
+2545,Customer 2545,24,Other,Chicago
+2546,Customer 2546,35,Other,New York
+2547,Customer 2547,57,Male,Miami
+2548,Customer 2548,60,Other,Los Angeles
+2549,Customer 2549,65,Other,Miami
+2550,Customer 2550,40,Male,New York
+2551,Customer 2551,78,Other,Los Angeles
+2552,Customer 2552,74,Male,Miami
+2553,Customer 2553,32,Female,Houston
+2554,Customer 2554,29,Female,New York
+2555,Customer 2555,52,Male,Los Angeles
+2556,Customer 2556,29,Male,Houston
+2557,Customer 2557,33,Male,Miami
+2558,Customer 2558,59,Male,Houston
+2559,Customer 2559,19,Other,Los Angeles
+2560,Customer 2560,79,Other,Houston
+2561,Customer 2561,79,Male,New York
+2562,Customer 2562,74,Female,Houston
+2563,Customer 2563,73,Male,Chicago
+2564,Customer 2564,74,Female,Houston
+2565,Customer 2565,63,Other,Los Angeles
+2566,Customer 2566,29,Other,Miami
+2567,Customer 2567,41,Other,Miami
+2568,Customer 2568,62,Other,New York
+2569,Customer 2569,73,Other,Los Angeles
+2570,Customer 2570,28,Other,Los Angeles
+2571,Customer 2571,31,Other,Los Angeles
+2572,Customer 2572,53,Male,Chicago
+2573,Customer 2573,51,Female,New York
+2574,Customer 2574,30,Other,New York
+2575,Customer 2575,45,Female,Houston
+2576,Customer 2576,72,Other,Miami
+2577,Customer 2577,24,Male,Miami
+2578,Customer 2578,78,Female,Houston
+2579,Customer 2579,38,Female,Houston
+2580,Customer 2580,54,Other,New York
+2581,Customer 2581,38,Female,Los Angeles
+2582,Customer 2582,27,Female,Los Angeles
+2583,Customer 2583,78,Other,New York
+2584,Customer 2584,23,Other,Los Angeles
+2585,Customer 2585,45,Other,Chicago
+2586,Customer 2586,41,Male,Los Angeles
+2587,Customer 2587,48,Female,Chicago
+2588,Customer 2588,43,Male,Houston
+2589,Customer 2589,37,Female,Chicago
+2590,Customer 2590,26,Female,Miami
+2591,Customer 2591,30,Male,Los Angeles
+2592,Customer 2592,41,Male,New York
+2593,Customer 2593,63,Other,Chicago
+2594,Customer 2594,50,Female,Chicago
+2595,Customer 2595,27,Male,Miami
+2596,Customer 2596,45,Other,Los Angeles
+2597,Customer 2597,33,Male,Houston
+2598,Customer 2598,25,Female,Chicago
+2599,Customer 2599,54,Other,Miami
+2600,Customer 2600,66,Female,Miami
+2601,Customer 2601,44,Female,Chicago
+2602,Customer 2602,25,Other,New York
+2603,Customer 2603,68,Male,Los Angeles
+2604,Customer 2604,61,Female,Chicago
+2605,Customer 2605,52,Other,Houston
+2606,Customer 2606,78,Other,Los Angeles
+2607,Customer 2607,77,Female,Los Angeles
+2608,Customer 2608,40,Male,Chicago
+2609,Customer 2609,62,Other,Miami
+2610,Customer 2610,45,Male,Houston
+2611,Customer 2611,69,Male,Miami
+2612,Customer 2612,45,Female,Chicago
+2613,Customer 2613,54,Female,Miami
+2614,Customer 2614,52,Male,Los Angeles
+2615,Customer 2615,75,Other,Chicago
+2616,Customer 2616,74,Male,New York
+2617,Customer 2617,39,Female,Chicago
+2618,Customer 2618,76,Male,Miami
+2619,Customer 2619,65,Other,New York
+2620,Customer 2620,75,Male,Chicago
+2621,Customer 2621,33,Male,Los Angeles
+2622,Customer 2622,25,Female,Houston
+2623,Customer 2623,59,Female,Chicago
+2624,Customer 2624,36,Female,Houston
+2625,Customer 2625,57,Other,Los Angeles
+2626,Customer 2626,45,Other,Houston
+2627,Customer 2627,67,Male,New York
+2628,Customer 2628,32,Male,Chicago
+2629,Customer 2629,71,Other,New York
+2630,Customer 2630,51,Female,Miami
+2631,Customer 2631,76,Male,Chicago
+2632,Customer 2632,18,Other,New York
+2633,Customer 2633,26,Other,Chicago
+2634,Customer 2634,77,Other,New York
+2635,Customer 2635,41,Other,Los Angeles
+2636,Customer 2636,68,Female,Chicago
+2637,Customer 2637,73,Male,New York
+2638,Customer 2638,74,Male,Houston
+2639,Customer 2639,50,Other,Miami
+2640,Customer 2640,36,Male,Los Angeles
+2641,Customer 2641,37,Male,Houston
+2642,Customer 2642,61,Female,Miami
+2643,Customer 2643,61,Female,Houston
+2644,Customer 2644,73,Other,Miami
+2645,Customer 2645,62,Female,New York
+2646,Customer 2646,61,Male,Chicago
+2647,Customer 2647,32,Female,Los Angeles
+2648,Customer 2648,79,Male,Los Angeles
+2649,Customer 2649,24,Female,Los Angeles
+2650,Customer 2650,52,Male,Chicago
+2651,Customer 2651,51,Other,Houston
+2652,Customer 2652,46,Other,Houston
+2653,Customer 2653,49,Male,Los Angeles
+2654,Customer 2654,51,Male,Houston
+2655,Customer 2655,18,Other,Miami
+2656,Customer 2656,58,Male,New York
+2657,Customer 2657,72,Other,New York
+2658,Customer 2658,55,Other,Chicago
+2659,Customer 2659,78,Female,Houston
+2660,Customer 2660,73,Other,New York
+2661,Customer 2661,51,Male,Houston
+2662,Customer 2662,72,Male,Miami
+2663,Customer 2663,65,Female,Miami
+2664,Customer 2664,68,Other,New York
+2665,Customer 2665,57,Male,Houston
+2666,Customer 2666,49,Female,Chicago
+2667,Customer 2667,74,Male,Houston
+2668,Customer 2668,35,Male,Miami
+2669,Customer 2669,66,Other,Chicago
+2670,Customer 2670,23,Other,New York
+2671,Customer 2671,36,Other,Houston
+2672,Customer 2672,31,Female,Houston
+2673,Customer 2673,39,Female,Houston
+2674,Customer 2674,49,Male,Houston
+2675,Customer 2675,26,Female,Houston
+2676,Customer 2676,24,Male,Los Angeles
+2677,Customer 2677,79,Male,Los Angeles
+2678,Customer 2678,73,Other,Miami
+2679,Customer 2679,69,Other,Chicago
+2680,Customer 2680,65,Other,Miami
+2681,Customer 2681,45,Female,Houston
+2682,Customer 2682,42,Female,New York
+2683,Customer 2683,42,Other,Miami
+2684,Customer 2684,70,Male,Miami
+2685,Customer 2685,23,Other,Miami
+2686,Customer 2686,62,Male,Houston
+2687,Customer 2687,49,Other,Los Angeles
+2688,Customer 2688,51,Other,Chicago
+2689,Customer 2689,67,Other,Houston
+2690,Customer 2690,23,Female,Houston
+2691,Customer 2691,30,Female,Houston
+2692,Customer 2692,38,Other,Miami
+2693,Customer 2693,19,Other,Chicago
+2694,Customer 2694,63,Female,New York
+2695,Customer 2695,75,Female,Houston
+2696,Customer 2696,20,Male,Chicago
+2697,Customer 2697,78,Male,Miami
+2698,Customer 2698,71,Male,Houston
+2699,Customer 2699,68,Female,Miami
+2700,Customer 2700,51,Female,Houston
+2701,Customer 2701,78,Male,Chicago
+2702,Customer 2702,50,Male,Houston
+2703,Customer 2703,45,Male,Los Angeles
+2704,Customer 2704,42,Male,Los Angeles
+2705,Customer 2705,24,Male,Miami
+2706,Customer 2706,70,Female,Chicago
+2707,Customer 2707,38,Female,Los Angeles
+2708,Customer 2708,67,Other,New York
+2709,Customer 2709,78,Female,Los Angeles
+2710,Customer 2710,22,Female,Los Angeles
+2711,Customer 2711,43,Male,Chicago
+2712,Customer 2712,45,Female,New York
+2713,Customer 2713,60,Female,Houston
+2714,Customer 2714,53,Male,Miami
+2715,Customer 2715,48,Female,Chicago
+2716,Customer 2716,54,Female,New York
+2717,Customer 2717,77,Male,Chicago
+2718,Customer 2718,43,Male,Miami
+2719,Customer 2719,70,Female,Houston
+2720,Customer 2720,28,Male,Los Angeles
+2721,Customer 2721,29,Male,Chicago
+2722,Customer 2722,25,Female,New York
+2723,Customer 2723,19,Male,New York
+2724,Customer 2724,28,Other,Miami
+2725,Customer 2725,60,Male,Houston
+2726,Customer 2726,23,Other,Miami
+2727,Customer 2727,33,Female,Miami
+2728,Customer 2728,67,Male,Houston
+2729,Customer 2729,24,Male,New York
+2730,Customer 2730,63,Female,Los Angeles
+2731,Customer 2731,77,Female,Houston
+2732,Customer 2732,66,Other,New York
+2733,Customer 2733,74,Other,New York
+2734,Customer 2734,38,Other,Miami
+2735,Customer 2735,67,Female,Chicago
+2736,Customer 2736,77,Other,Houston
+2737,Customer 2737,26,Male,Chicago
+2738,Customer 2738,18,Female,Chicago
+2739,Customer 2739,54,Other,Chicago
+2740,Customer 2740,71,Female,Los Angeles
+2741,Customer 2741,73,Male,Los Angeles
+2742,Customer 2742,62,Male,Los Angeles
+2743,Customer 2743,76,Female,New York
+2744,Customer 2744,41,Other,Chicago
+2745,Customer 2745,54,Other,New York
+2746,Customer 2746,65,Male,New York
+2747,Customer 2747,21,Female,Los Angeles
+2748,Customer 2748,73,Male,New York
+2749,Customer 2749,29,Female,Chicago
+2750,Customer 2750,59,Male,Los Angeles
+2751,Customer 2751,36,Female,Miami
+2752,Customer 2752,49,Female,New York
+2753,Customer 2753,19,Female,Los Angeles
+2754,Customer 2754,70,Other,Chicago
+2755,Customer 2755,64,Male,Miami
+2756,Customer 2756,69,Male,Chicago
+2757,Customer 2757,63,Male,Miami
+2758,Customer 2758,20,Male,Miami
+2759,Customer 2759,53,Male,Los Angeles
+2760,Customer 2760,79,Male,Los Angeles
+2761,Customer 2761,49,Male,Los Angeles
+2762,Customer 2762,27,Other,New York
+2763,Customer 2763,78,Male,New York
+2764,Customer 2764,54,Other,Los Angeles
+2765,Customer 2765,72,Other,Los Angeles
+2766,Customer 2766,29,Female,Miami
+2767,Customer 2767,30,Female,Miami
+2768,Customer 2768,21,Other,Houston
+2769,Customer 2769,19,Female,Miami
+2770,Customer 2770,79,Other,New York
+2771,Customer 2771,36,Female,Miami
+2772,Customer 2772,61,Male,New York
+2773,Customer 2773,59,Female,Chicago
+2774,Customer 2774,20,Female,Houston
+2775,Customer 2775,61,Male,Houston
+2776,Customer 2776,26,Male,Miami
+2777,Customer 2777,45,Female,Los Angeles
+2778,Customer 2778,42,Female,Los Angeles
+2779,Customer 2779,79,Female,Miami
+2780,Customer 2780,47,Other,Los Angeles
+2781,Customer 2781,31,Male,New York
+2782,Customer 2782,22,Male,Chicago
+2783,Customer 2783,45,Other,Houston
+2784,Customer 2784,68,Other,Miami
+2785,Customer 2785,29,Female,New York
+2786,Customer 2786,19,Female,Chicago
+2787,Customer 2787,39,Male,Houston
+2788,Customer 2788,65,Other,New York
+2789,Customer 2789,33,Female,Miami
+2790,Customer 2790,49,Other,Los Angeles
+2791,Customer 2791,58,Other,Chicago
+2792,Customer 2792,30,Male,Houston
+2793,Customer 2793,37,Female,Chicago
+2794,Customer 2794,33,Male,Houston
+2795,Customer 2795,19,Male,Miami
+2796,Customer 2796,69,Female,Los Angeles
+2797,Customer 2797,54,Male,Miami
+2798,Customer 2798,46,Male,Chicago
+2799,Customer 2799,79,Male,Miami
+2800,Customer 2800,66,Other,Chicago
+2801,Customer 2801,33,Male,Houston
+2802,Customer 2802,38,Other,Miami
+2803,Customer 2803,54,Other,Chicago
+2804,Customer 2804,59,Other,Houston
+2805,Customer 2805,43,Female,Los Angeles
+2806,Customer 2806,24,Female,Miami
+2807,Customer 2807,31,Female,New York
+2808,Customer 2808,44,Other,Chicago
+2809,Customer 2809,46,Female,Houston
+2810,Customer 2810,50,Other,Chicago
+2811,Customer 2811,57,Female,Chicago
+2812,Customer 2812,22,Other,Miami
+2813,Customer 2813,25,Male,Houston
+2814,Customer 2814,23,Male,Houston
+2815,Customer 2815,79,Other,New York
+2816,Customer 2816,38,Other,Chicago
+2817,Customer 2817,18,Other,Chicago
+2818,Customer 2818,68,Other,Houston
+2819,Customer 2819,24,Male,Chicago
+2820,Customer 2820,24,Male,Houston
+2821,Customer 2821,20,Female,Chicago
+2822,Customer 2822,34,Male,Houston
+2823,Customer 2823,58,Other,New York
+2824,Customer 2824,39,Other,Los Angeles
+2825,Customer 2825,32,Female,Miami
+2826,Customer 2826,79,Female,Chicago
+2827,Customer 2827,52,Male,Los Angeles
+2828,Customer 2828,25,Female,Chicago
+2829,Customer 2829,44,Other,Houston
+2830,Customer 2830,79,Female,Chicago
+2831,Customer 2831,42,Other,Los Angeles
+2832,Customer 2832,32,Male,New York
+2833,Customer 2833,31,Male,Los Angeles
+2834,Customer 2834,52,Female,Miami
+2835,Customer 2835,44,Other,New York
+2836,Customer 2836,40,Female,Chicago
+2837,Customer 2837,32,Female,Houston
+2838,Customer 2838,20,Male,Chicago
+2839,Customer 2839,66,Male,Los Angeles
+2840,Customer 2840,75,Male,Miami
+2841,Customer 2841,71,Female,Los Angeles
+2842,Customer 2842,41,Female,Miami
+2843,Customer 2843,68,Male,Miami
+2844,Customer 2844,76,Male,Los Angeles
+2845,Customer 2845,34,Male,Miami
+2846,Customer 2846,25,Female,New York
+2847,Customer 2847,19,Other,Chicago
+2848,Customer 2848,63,Female,Chicago
+2849,Customer 2849,37,Other,Houston
+2850,Customer 2850,28,Male,Miami
+2851,Customer 2851,33,Female,Chicago
+2852,Customer 2852,60,Other,Miami
+2853,Customer 2853,38,Other,Miami
+2854,Customer 2854,70,Male,Houston
+2855,Customer 2855,61,Male,Chicago
+2856,Customer 2856,25,Female,Los Angeles
+2857,Customer 2857,44,Other,Chicago
+2858,Customer 2858,51,Female,Houston
+2859,Customer 2859,21,Male,Miami
+2860,Customer 2860,48,Other,Miami
+2861,Customer 2861,66,Other,New York
+2862,Customer 2862,62,Male,Houston
+2863,Customer 2863,42,Male,Los Angeles
+2864,Customer 2864,47,Male,New York
+2865,Customer 2865,51,Other,New York
+2866,Customer 2866,54,Male,Chicago
+2867,Customer 2867,48,Other,Houston
+2868,Customer 2868,49,Female,Houston
+2869,Customer 2869,55,Other,Los Angeles
+2870,Customer 2870,59,Female,Chicago
+2871,Customer 2871,70,Male,Miami
+2872,Customer 2872,35,Male,Chicago
+2873,Customer 2873,51,Other,Houston
+2874,Customer 2874,56,Female,Los Angeles
+2875,Customer 2875,46,Other,New York
+2876,Customer 2876,45,Other,New York
+2877,Customer 2877,21,Male,Los Angeles
+2878,Customer 2878,29,Female,New York
+2879,Customer 2879,18,Male,Los Angeles
+2880,Customer 2880,66,Female,Los Angeles
+2881,Customer 2881,23,Male,Houston
+2882,Customer 2882,47,Male,Los Angeles
+2883,Customer 2883,72,Female,Houston
+2884,Customer 2884,67,Male,Houston
+2885,Customer 2885,21,Male,Chicago
+2886,Customer 2886,72,Other,Miami
+2887,Customer 2887,22,Male,Los Angeles
+2888,Customer 2888,37,Male,Los Angeles
+2889,Customer 2889,35,Male,Chicago
+2890,Customer 2890,77,Male,Los Angeles
+2891,Customer 2891,46,Female,New York
+2892,Customer 2892,61,Female,Houston
+2893,Customer 2893,25,Female,Houston
+2894,Customer 2894,44,Other,Chicago
+2895,Customer 2895,24,Female,Los Angeles
+2896,Customer 2896,73,Male,New York
+2897,Customer 2897,36,Male,Miami
+2898,Customer 2898,46,Male,Chicago
+2899,Customer 2899,37,Male,Chicago
+2900,Customer 2900,46,Male,Houston
+2901,Customer 2901,67,Male,Los Angeles
+2902,Customer 2902,45,Male,Chicago
+2903,Customer 2903,65,Other,Miami
+2904,Customer 2904,72,Other,Houston
+2905,Customer 2905,44,Male,Miami
+2906,Customer 2906,54,Female,Miami
+2907,Customer 2907,65,Male,Chicago
+2908,Customer 2908,67,Male,Houston
+2909,Customer 2909,67,Other,New York
+2910,Customer 2910,33,Other,Houston
+2911,Customer 2911,67,Other,Houston
+2912,Customer 2912,27,Male,Miami
+2913,Customer 2913,52,Female,Houston
+2914,Customer 2914,55,Other,Chicago
+2915,Customer 2915,19,Female,Los Angeles
+2916,Customer 2916,20,Male,New York
+2917,Customer 2917,39,Other,Miami
+2918,Customer 2918,65,Male,New York
+2919,Customer 2919,59,Other,New York
+2920,Customer 2920,60,Other,Chicago
+2921,Customer 2921,33,Female,Los Angeles
+2922,Customer 2922,21,Other,Houston
+2923,Customer 2923,78,Male,Miami
+2924,Customer 2924,66,Other,Chicago
+2925,Customer 2925,73,Female,Chicago
+2926,Customer 2926,65,Male,Los Angeles
+2927,Customer 2927,41,Male,Chicago
+2928,Customer 2928,54,Male,New York
+2929,Customer 2929,44,Female,Houston
+2930,Customer 2930,36,Female,New York
+2931,Customer 2931,44,Male,Chicago
+2932,Customer 2932,29,Female,Los Angeles
+2933,Customer 2933,26,Other,New York
+2934,Customer 2934,21,Female,Houston
+2935,Customer 2935,42,Male,Houston
+2936,Customer 2936,37,Male,Chicago
+2937,Customer 2937,30,Male,Chicago
+2938,Customer 2938,36,Male,Houston
+2939,Customer 2939,29,Female,Miami
+2940,Customer 2940,36,Male,Miami
+2941,Customer 2941,23,Male,Chicago
+2942,Customer 2942,64,Female,Chicago
+2943,Customer 2943,73,Male,New York
+2944,Customer 2944,66,Female,Houston
+2945,Customer 2945,22,Female,New York
+2946,Customer 2946,74,Female,Houston
+2947,Customer 2947,59,Female,Houston
+2948,Customer 2948,55,Other,New York
+2949,Customer 2949,67,Male,Miami
+2950,Customer 2950,70,Female,Los Angeles
+2951,Customer 2951,21,Other,Houston
+2952,Customer 2952,50,Female,Houston
+2953,Customer 2953,68,Other,Los Angeles
+2954,Customer 2954,69,Male,New York
+2955,Customer 2955,76,Female,Houston
+2956,Customer 2956,78,Other,Chicago
+2957,Customer 2957,51,Female,Los Angeles
+2958,Customer 2958,24,Male,Chicago
+2959,Customer 2959,74,Other,Chicago
+2960,Customer 2960,26,Other,Los Angeles
+2961,Customer 2961,75,Other,Houston
+2962,Customer 2962,65,Female,Chicago
+2963,Customer 2963,22,Male,New York
+2964,Customer 2964,78,Female,Miami
+2965,Customer 2965,33,Male,Houston
+2966,Customer 2966,35,Male,Los Angeles
+2967,Customer 2967,30,Other,Houston
+2968,Customer 2968,77,Male,Houston
+2969,Customer 2969,44,Female,Houston
+2970,Customer 2970,24,Male,Miami
+2971,Customer 2971,60,Other,Los Angeles
+2972,Customer 2972,20,Female,Chicago
+2973,Customer 2973,38,Other,Miami
+2974,Customer 2974,28,Male,Los Angeles
+2975,Customer 2975,67,Male,Chicago
+2976,Customer 2976,37,Female,New York
+2977,Customer 2977,69,Other,Los Angeles
+2978,Customer 2978,23,Other,Chicago
+2979,Customer 2979,20,Female,Los Angeles
+2980,Customer 2980,67,Other,New York
+2981,Customer 2981,27,Other,Los Angeles
+2982,Customer 2982,71,Other,Chicago
+2983,Customer 2983,18,Male,Chicago
+2984,Customer 2984,74,Female,Los Angeles
+2985,Customer 2985,54,Male,Miami
+2986,Customer 2986,21,Female,Los Angeles
+2987,Customer 2987,62,Male,Houston
+2988,Customer 2988,31,Other,Chicago
+2989,Customer 2989,33,Other,Chicago
+2990,Customer 2990,63,Male,New York
+2991,Customer 2991,72,Male,Miami
+2992,Customer 2992,71,Other,Chicago
+2993,Customer 2993,38,Male,Los Angeles
+2994,Customer 2994,66,Other,Chicago
+2995,Customer 2995,32,Male,Miami
+2996,Customer 2996,41,Other,Chicago
+2997,Customer 2997,18,Male,Miami
+2998,Customer 2998,73,Female,Los Angeles
+2999,Customer 2999,51,Male,Miami
+3000,Customer 3000,64,Other,Houston
